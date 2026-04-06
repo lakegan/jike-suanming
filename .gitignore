@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+npm-debug.log
+.DS_Store
+
+# TypeScript
+/dist/
+*.tsbuildinfo
+
+# IDE configurations
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
