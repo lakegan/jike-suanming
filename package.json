@@ -1,0 +1,1 @@
+{\n  "name": "jike-suanming",\n  "private": true,\n  "workspaces": [\n    "frontend/*",\n    "backend/*"\n  ],\n  "scripts": {\n    "install": "npm install",\n    "start": "npm run start --workspace frontend",\n    "build": "npm run build --workspace frontend"\n  }\n}
